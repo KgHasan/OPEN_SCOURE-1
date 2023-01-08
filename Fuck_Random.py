@@ -113,7 +113,7 @@ class Main:
             os.system('xdg-open https://www.facebook.com/copy.link.erorr404')
         if HASAN in ["3","03"]:
             v3()
-            os.system('xdg-open https://github.com/KgHasan)
+            os.system('xdg-open https://github.com/KgHasan')
         if HASAN in [" 0", "00"]:
             exit()
         else:
